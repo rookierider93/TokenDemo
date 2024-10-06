@@ -1,0 +1,2 @@
+Use this command to generate tokens
+ dotnet user-jwts create --role "player" -n player1 --claim "subscription=gold"
