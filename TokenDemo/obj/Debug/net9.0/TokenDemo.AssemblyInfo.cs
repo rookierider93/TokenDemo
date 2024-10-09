@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TokenDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed538da87386d8003f8a19ce31715986ad2afa50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+514c20bad2b76c5483509e619bc482188ee9cf6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TokenDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TokenDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
